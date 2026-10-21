@@ -12,3 +12,4 @@ Valid	SameAsFrom	OverLimit	Different
 Frozen	Valid	Zero	Different
 Valid	Valid	OverBalance	Same
 Frozen	Missing	Normal	Different
+Valid	Valid	Normal	Same
